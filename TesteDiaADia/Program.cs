@@ -18,6 +18,8 @@ namespace TesteDiaADia
             int x = 0;
             UpdateValue(ref x);
             Console.WriteLine($"x = {x}");
+
+            Console.WriteLine("Nova branch");
         }
 
         /// <summary>
