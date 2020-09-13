@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lsilvpin\\source\\repos\\TesteDiaADia\\TesteDiaADia\\TesteDiaADia.csproj": {}
+    "C:\\Users\\lsilvpin\\source\\repos\\PersonalWorkspace\\TesteDiaADia\\TesteDiaADia\\TesteDiaADia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lsilvpin\\source\\repos\\TesteDiaADia\\TesteDiaADia\\TesteDiaADia.csproj": {
+    "C:\\Users\\lsilvpin\\source\\repos\\PersonalWorkspace\\TesteDiaADia\\TesteDiaADia\\TesteDiaADia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lsilvpin\\source\\repos\\TesteDiaADia\\TesteDiaADia\\TesteDiaADia.csproj",
+        "projectUniqueName": "C:\\Users\\lsilvpin\\source\\repos\\PersonalWorkspace\\TesteDiaADia\\TesteDiaADia\\TesteDiaADia.csproj",
         "projectName": "TesteDiaADia",
-        "projectPath": "C:\\Users\\lsilvpin\\source\\repos\\TesteDiaADia\\TesteDiaADia\\TesteDiaADia.csproj",
+        "projectPath": "C:\\Users\\lsilvpin\\source\\repos\\PersonalWorkspace\\TesteDiaADia\\TesteDiaADia\\TesteDiaADia.csproj",
         "packagesPath": "C:\\Users\\lsilvpin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lsilvpin\\source\\repos\\TesteDiaADia\\TesteDiaADia\\obj\\",
+        "outputPath": "C:\\Users\\lsilvpin\\source\\repos\\PersonalWorkspace\\TesteDiaADia\\TesteDiaADia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
