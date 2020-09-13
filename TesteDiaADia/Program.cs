@@ -20,6 +20,8 @@ namespace TesteDiaADia
             Console.WriteLine($"x = {x}");
 
             Console.WriteLine("Nova branch");
+
+            Console.WriteLine("Conteúdo para stash");
         }
 
         /// <summary>
