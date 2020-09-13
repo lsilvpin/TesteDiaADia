@@ -1,0 +1,13 @@
+C:\Users\lsilvpin\source\repos\TesteDiaADia\TesteDiaADia\bin\Debug\netcoreapp3.1\TesteDiaADia.exe
+C:\Users\lsilvpin\source\repos\TesteDiaADia\TesteDiaADia\bin\Debug\netcoreapp3.1\TesteDiaADia.deps.json
+C:\Users\lsilvpin\source\repos\TesteDiaADia\TesteDiaADia\bin\Debug\netcoreapp3.1\TesteDiaADia.runtimeconfig.json
+C:\Users\lsilvpin\source\repos\TesteDiaADia\TesteDiaADia\bin\Debug\netcoreapp3.1\TesteDiaADia.runtimeconfig.dev.json
+C:\Users\lsilvpin\source\repos\TesteDiaADia\TesteDiaADia\bin\Debug\netcoreapp3.1\TesteDiaADia.dll
+C:\Users\lsilvpin\source\repos\TesteDiaADia\TesteDiaADia\bin\Debug\netcoreapp3.1\TesteDiaADia.pdb
+C:\Users\lsilvpin\source\repos\TesteDiaADia\TesteDiaADia\obj\Debug\netcoreapp3.1\TesteDiaADia.AssemblyInfoInputs.cache
+C:\Users\lsilvpin\source\repos\TesteDiaADia\TesteDiaADia\obj\Debug\netcoreapp3.1\TesteDiaADia.AssemblyInfo.cs
+C:\Users\lsilvpin\source\repos\TesteDiaADia\TesteDiaADia\obj\Debug\netcoreapp3.1\TesteDiaADia.csproj.CoreCompileInputs.cache
+C:\Users\lsilvpin\source\repos\TesteDiaADia\TesteDiaADia\obj\Debug\netcoreapp3.1\TesteDiaADia.dll
+C:\Users\lsilvpin\source\repos\TesteDiaADia\TesteDiaADia\obj\Debug\netcoreapp3.1\TesteDiaADia.pdb
+C:\Users\lsilvpin\source\repos\TesteDiaADia\TesteDiaADia\obj\Debug\netcoreapp3.1\TesteDiaADia.genruntimeconfig.cache
+C:\Users\lsilvpin\source\repos\TesteDiaADia\TesteDiaADia\obj\Debug\netcoreapp3.1\TesteDiaADia.csprojAssemblyReference.cache
