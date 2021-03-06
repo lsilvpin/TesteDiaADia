@@ -1,34 +1,37 @@
-﻿using System;
+﻿using Microsoft.Extensions.DependencyInjection;
+using System;
 
 namespace TesteDiaADia
 {
-    class Program
+    public static class Program
     {
-        static void Main(string[] args)
+        private static readonly ServiceCollection services = new ServiceCollection();
+
+        public static void Main()
         {
-            // Entendendo os Enums
-            Classe classe = new Classe();
+            Injector.Initialize(services);
 
-            Console.WriteLine($"Numero: {classe.Numero}");
-            Console.WriteLine($"Tipo: {classe.Tipo}");
-            Console.WriteLine($"Validação: {classe.Tipo == 0}");
-            Console.WriteLine($"Nome da classe: {nameof(Classe)}");
-
-            // Entendendo ref e out
-            int x = 0;
-            UpdateValue(ref x);
-            Console.WriteLine($"x = {x}");
-
-            Console.WriteLine("Conteúdo para stash");
+            DateTimeAndOffset();
         }
 
-        /// <summary>
-        /// Modifica o valor da variável x pertencente ao escopo onde esta função foi chamada
-        /// </summary>
-        /// <param name="x">Variável sendo tratada</param>
-        private static void UpdateValue(ref int x)
+        private static void DateTimeAndOffset()
         {
-            x = 12;
+            DateTime nowHere = DateTime.Now;
+            DateTimeOffset nowHereOffset = DateTimeOffset.Now;
+            TimeSpan offset = TimeZoneInfo.Local.GetUtcOffset(nowHere);
+            DateTime NowGreenwitch = nowHere - offset;
+            DateTime utcNow = DateTime.UtcNow;
+            DateTime nowHereFromUtc = utcNow.Add(offset);
+
+            Console.Write(Environment.NewLine);
+            Console.WriteLine($"nowHere: {nowHere}");
+            Console.WriteLine($"nowHereOffset: {nowHereOffset}");
+            Console.WriteLine($"offset: {offset}");
+            Console.WriteLine($"nowGreenwitch: {NowGreenwitch} as (nowHere - offset)");
+            Console.WriteLine($"utcNow: {utcNow} as (DateTime.UtcNow)");
+            Console.WriteLine($"nowHereFromUtc: {nowHereFromUtc} as (utcNow.Add(offset))");
+            Console.WriteLine("Formule: timeHere = timeUTC + offset");
+            Console.Write(Environment.NewLine);
         }
     }
 }
