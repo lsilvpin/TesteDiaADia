@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lsilvpin\\source\\repos\\PersonalWorkspace\\TesteDiaADia\\TesteDiaADia\\TesteDiaADia.csproj",
+      "projectUniqueName": "C:\\repos\\PersonalWorkspace\\cSharp\\TesteDiaADia\\TesteDiaADia\\TesteDiaADia.csproj",
       "projectName": "TesteDiaADia",
-      "projectPath": "C:\\Users\\lsilvpin\\source\\repos\\PersonalWorkspace\\TesteDiaADia\\TesteDiaADia\\TesteDiaADia.csproj",
+      "projectPath": "C:\\repos\\PersonalWorkspace\\cSharp\\TesteDiaADia\\TesteDiaADia\\TesteDiaADia.csproj",
       "packagesPath": "C:\\Users\\lsilvpin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lsilvpin\\source\\repos\\PersonalWorkspace\\TesteDiaADia\\TesteDiaADia\\obj\\",
+      "outputPath": "C:\\repos\\PersonalWorkspace\\cSharp\\TesteDiaADia\\TesteDiaADia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -38,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -49,6 +50,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -64,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
