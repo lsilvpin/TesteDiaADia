@@ -128,3 +128,4 @@ C:\repos\PersonalWorkspace\cSharp\TesteDiaADia\TesteDiaADia\bin\Debug\netcoreapp
 C:\repos\PersonalWorkspace\cSharp\TesteDiaADia\TesteDiaADia\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\repos\PersonalWorkspace\cSharp\TesteDiaADia\TesteDiaADia\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\repos\PersonalWorkspace\cSharp\TesteDiaADia\TesteDiaADia\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\repos\PersonalWorkspace\cSharp\TesteDiaADia\TesteDiaADia\obj\Debug\netcoreapp3.1\TesteDiaADia.csprojAssemblyReference.cache

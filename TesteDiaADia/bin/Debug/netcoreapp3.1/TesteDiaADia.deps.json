@@ -10,7 +10,8 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Proxies": "5.0.3",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.3",
-          "Microsoft.EntityFrameworkCore.Tools": "5.0.3"
+          "Microsoft.EntityFrameworkCore.Tools": "5.0.3",
+          "Microsoft.Extensions.DependencyInjection": "5.0.1"
         },
         "runtime": {
           "TesteDiaADia.dll": {}
